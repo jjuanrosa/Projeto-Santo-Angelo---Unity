@@ -459,6 +459,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6218940976453351051, guid: af3a609f3b06600409a356f4e8ba91ba, type: 3}
+      propertyPath: m_Name
+      value: Arch_Interactable_BoasVindas
+      objectReference: {fileID: 0}
     - target: {fileID: -5246043084920070811, guid: af3a609f3b06600409a356f4e8ba91ba, type: 3}
       propertyPath: m_Layer
       value: 5
